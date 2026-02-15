@@ -8,5 +8,6 @@ Por Mayra Alejandra Alzate Sánchez.
 
 La temática a emplear para la creación de los ejercicios esta basada en los temas vistos en la Semana 2.
 
-1. Uso de la función print() para Python
+1. Ejercicio 1: Uso de la función print() para Python.
+2. Ejercicio 2: Implementación de interpolación para cadenas de texto.
 
