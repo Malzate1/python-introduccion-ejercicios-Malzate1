@@ -2,13 +2,13 @@
 
 # Esta herramienta nos permite "concatenar una cadena de palabras o strings/int" sin la necesidad de utilizar el operador +.
 
-# Defina varias variables. Ej: nombre = "" , edad = ...
+# 1. Defina varias variables. Ej: nombre = "" , edad = ...
 
-# En este punto debe empezar a usar la interpolación para concatenar las variables a imprimir en consola.Recuerde que debe ingresar las variables en llaves dentro del parentesis del print().
+# 2. Imprima las variables que definió en el paso anetiror.En este punto debe empezar a usar la interpolación para concatenar las variables a imprimir en consola.Recuerde que debe ingresar las variables en llaves dentro del parentesis del print().
 
 #Tip: La estructura a emplear para imprimir es print(f"Su nombre es {la variable} y su edad es {la variable}").
 
-# Ejecutar el programa.
+# 3. Ejecutar el programa.
 
 
 
