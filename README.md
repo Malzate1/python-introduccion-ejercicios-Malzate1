@@ -1,4 +1,6 @@
-# Python para dummies por Mayra Alejandra Alzate Sánchez.
+# Python para dummies 
+
+### por Mayra Alejandra Alzate Sánchez.
 
 ## Ejercicios de práctica Python:
 
