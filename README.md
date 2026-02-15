@@ -1,4 +1,4 @@
-# Python para dummies 
+<center> #Python para dummies </center>
 
 ### por Mayra Alejandra Alzate Sánchez.
 
