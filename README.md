@@ -1,6 +1,6 @@
 # Python para dummies 
 
-### por Mayra Alejandra Alzate Sánchez.
+Por Mayra Alejandra Alzate Sánchez.
 
 ## Ejercicios de práctica Python:
 
