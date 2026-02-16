@@ -9,6 +9,6 @@
 
 # 4. Ejecuta el programa.
 
-#Tip: Recuerda emplear la interpolación en la impresión (print(f""))
+#Tip: Recuerda emplear la interpolación en la impresión: (print(f""))
 
 

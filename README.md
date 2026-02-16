@@ -12,4 +12,5 @@ La temática a emplear para la creación de los ejercicios esta basada en los te
 2. Ejercicio 2: Implementación de interpolación para cadenas de texto.
 3. Ejercicio 3: Suma de enteros de un set.
 4. Ejercicio 4: Conversión implícita de entero y flotante en una  resta.
+5. Ejercicio 5: Multiplicación de dos números ingresados por consola.
 
