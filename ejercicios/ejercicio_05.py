@@ -5,3 +5,5 @@
 # 2. Definir la variable que recibirá el resultado de la multiplicación y en la cual se hará la operación.
 
 # 3. Imprimir el resultado.
+
+# 4. Ejecute el programa.
