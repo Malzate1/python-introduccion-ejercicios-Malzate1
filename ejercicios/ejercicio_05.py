@@ -7,3 +7,9 @@
 # 3. Imprimir el resultado.
 
 # 4. Ejecute el programa.
+
+#Tip: Recuerda que al capturar los datos en el inicio, debes envolver ambos inputs con int* puesto que el programa los leerá como si fueran strings y no se ejecutará la operación matemática. 
+
+
+
+
