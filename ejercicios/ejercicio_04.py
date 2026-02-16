@@ -6,7 +6,11 @@
 
 # 3. Imprima la variable que definió para la operación.
 
-#Tip: Utilice print(type(variable_operacion)) para obtener el resultado en la consola. Como la conversión es implícita, el resultado será de tipo flotante
+# 4. Utilice print(type(variable_operacion)) para obtener el resultado de la conversión en la consola. 
+
+# Tip: Como la conversión es implícita, el resultado será de tipo flotante
 
 # 4. Ejecute el programa.
+
+
 
