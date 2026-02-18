@@ -13,4 +13,5 @@ La temática a emplear para la creación de los ejercicios esta basada en los te
 3. Ejercicio 3: Suma de enteros de un set.
 4. Ejercicio 4: Conversión implícita de entero y flotante en una  resta.
 5. Ejercicio 5: Multiplicación de dos números ingresados por consola.
+6. Ejercicio 6: Control de acceso a usuario con operadores lógicos y datos de tipo booleano.
 
