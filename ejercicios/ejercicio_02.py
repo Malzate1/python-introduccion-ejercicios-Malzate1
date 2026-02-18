@@ -1,5 +1,7 @@
 #Ejercicio 2: Implementación de interpolación para cadenas de texto.
 
+
+#Descripción:
 # Esta herramienta nos permite "concatenar una cadena de palabras o strings/int" sin la necesidad de utilizar el operador +.
 
 # 1. Defina varias variables. Ej: nombre = "" , edad = ...

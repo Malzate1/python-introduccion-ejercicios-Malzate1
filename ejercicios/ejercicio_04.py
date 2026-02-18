@@ -1,5 +1,8 @@
 # Ejercicio 4: Conversión implícita de entero y flotante en una  resta.
 
+# Descripción:
+# Para este ejercicio, debes definir las variables tanto para operar en la resta, como la que va a recibir el resultado. 
+
 # 1. Defina las variables del entero y el flotante a restar.
 
 # 2. En una nueva variable, reste las dos variables anteriormente establecidas.
