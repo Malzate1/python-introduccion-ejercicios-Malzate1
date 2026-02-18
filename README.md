@@ -6,7 +6,7 @@ Por Mayra Alejandra Alzate Sánchez.
 
  A continuación encontraremos 10 ejercicios básicos introductorios en el funcionamiento del lenguaje de Python.
 
-La temática a emplear para la creación de los ejercicios esta basada en los temas vistos en la Semana 2.
+La temática a emplear para la creación de los ejercicios esta basada en los temas vistos durante la Semana 2.
 
 1. Ejercicio 1: Uso de la función print() para Python.
 2. Ejercicio 2: Implementación de interpolación para cadenas de texto.
@@ -14,4 +14,5 @@ La temática a emplear para la creación de los ejercicios esta basada en los te
 4. Ejercicio 4: Conversión implícita de entero y flotante en una  resta.
 5. Ejercicio 5: Multiplicación de dos números ingresados por consola.
 6. Ejercicio 6: Control de acceso a usuario con operadores lógicos y datos de tipo booleano.
+7. Ejercicio 7: Verificador de Edad.
 
