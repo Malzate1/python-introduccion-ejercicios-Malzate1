@@ -6,8 +6,12 @@
 
 # Define una variable en formato snake_case(como desees nombrarla).
 
+nombre = "camila"
+edad = 56
 
 
 # Utiliza la funcion print para imprimir la variable que acabas de definir y a continuación ejecuta el programa. 
+
+print(f"La edad de {nombre} es {edad}")
 
 #Tips: Recuerda que es importante la indentación a la hora de escribir el código/defininir variables.
