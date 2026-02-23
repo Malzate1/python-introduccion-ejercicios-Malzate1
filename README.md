@@ -15,4 +15,5 @@ La temática a emplear para la creación de los ejercicios esta basada en los te
 5. Ejercicio 5: Multiplicación de dos números ingresados por consola.
 6. Ejercicio 6: Control de acceso a usuario con operadores lógicos y datos de tipo booleano.
 7. Ejercicio 7: Verificador de Edad.
+8. Ejercicio 08: Verificador de números pares-impares.
 
