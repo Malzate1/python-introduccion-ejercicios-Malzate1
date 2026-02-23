@@ -4,7 +4,15 @@
 
 # 1. Define la variable de captura. Acá es clave el "input".
 
+edad = int (input("Cuál es su edad? :"))
+
 # 2. Define el ciclo y sus condicionales con la ayuda de "if".
+
+if edad >= 18:
+    print("Eres mayor de edad.")
+
+else:
+    print("Eres menor de edad.")
 
 # 3. Ejecutar el programa.
 
