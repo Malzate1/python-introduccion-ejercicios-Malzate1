@@ -6,12 +6,13 @@
 
 # Define una variable en formato snake_case(como desees nombrarla).
 
-nombre = "camila"
-edad = 56
+frase_de_vida = "Mente estoica, corazón romántico"
 
 
 # Utiliza la funcion print para imprimir la variable que acabas de definir y a continuación ejecuta el programa. 
 
-print(f"La edad de {nombre} es {edad}")
+print(frase_de_vida)
+
+
 
 #Tips: Recuerda que es importante la indentación a la hora de escribir el código/defininir variables.
