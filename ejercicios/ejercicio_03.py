@@ -8,14 +8,16 @@
 
 set_impar = {3,5,7,17,19}
 
-# 2. Define la variable que recibirá el total para aplicar la suma. A continuación emplea la palabra reservada para suma y entre parentesis, escribe la variable que  utilizaste para el set.
+# 2. Define la variable que recibirá el total para aplicar la suma. Recuerda utilizar un bucle "for" para realizar la suma.
+suma=0
 
-total_set= sum(set_impar)
+for numero in set_impar:
+    suma +=numero
 
 
 # 3. Imprime el resultado utilizando print().
 
-print(f"La suma del set impar es  {total_set}")
+print(f"La suma del set impar es  {suma}")
 
 # 4. Ejecuta el programa.
 
