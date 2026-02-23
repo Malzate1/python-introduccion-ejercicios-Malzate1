@@ -10,7 +10,7 @@ contrasena_sistema =123456
 
 # 2. Estructure la captura de datos acorde a las variables definidas anteriormente. Recuerde que es imprescindible el uso del "input".
 
-usuario= input("Ingrese el usuario")
+usuario= input("Ingrese el usuario: ")
 contrasena= int (input("Ingrese la contraseña"))
 
 # 3. Defina la estructura de ciclos de acuerdo a las condiciones que permitan el correcto uso de las variables para acceder con éxito en el programa. 
