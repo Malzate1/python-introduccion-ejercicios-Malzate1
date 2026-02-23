@@ -4,10 +4,20 @@
 
 # 1. Define una lista de números enteros. Ponga la cantidad de números que desee.
 
+numeros_ent =[2,5,6,9,10,5]
+
 
 # 2. Define dos variables: una para total y otra para cantidad. En una utilizas la función sum() y en la otra len().
 
+total= sum(numeros_ent)
+cantidad= len(numeros_ent)
+
+
 # 3 Con ambas variables definidas y aplicando las funciones mencionadas en el punto 2, ya puedes calcular el promedio de la lista de números enteros que definiste inicialmente.No olvides definir la variable promedio para el uso de las variables anteriormente definidas con las funciones sum() y len().
+
+promedio= total/cantidad
+
+print(f"El promedio de números enteros es {promedio:.2f}")
 
 # 4. Ejecuta el programa.
 
