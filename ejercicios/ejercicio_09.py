@@ -4,6 +4,7 @@
 
 # 1. Define una lista de números enteros. Ponga la cantidad de números que desee.
 
+
 # 2. Define dos variables: una para total y otra para cantidad. En una utilizas la función sum() y en la otra len().
 
 # 3 Con ambas variables definidas y aplicando las funciones mencionadas en el punto 2, ya puedes calcular el promedio de la lista de números enteros que definiste inicialmente.No olvides definir la variable promedio para el uso de las variables anteriormente definidas con las funciones sum() y len().

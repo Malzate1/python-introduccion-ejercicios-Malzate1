@@ -4,7 +4,11 @@
 
 # 1. Definimos la función range() con los 3 parámetros que configuran el inicio, el fin y el salto que queremos que se ejecute. Ej: inicio 2, final 20 con un salto de 3. Así : range(2,20,3).
 
+range(5,20,4)
+
 # 2.Para convertir el resultado de la función en una lista, imprimimos la lista conteniendo el rango.
+
+print(list(range(5,20,4)))
 
 # 3. Ejecutamos el script.
 
