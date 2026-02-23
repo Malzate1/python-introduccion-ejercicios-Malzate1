@@ -4,7 +4,7 @@
 #Descripción:
 # Esta herramienta nos permite "concatenar una cadena de palabras o strings/int" sin la necesidad de utilizar el operador +.
 
-# 1. Defina varias variables. Ej: nombre = "" , edad = ...
+# 1. Defina dos  variables. Ej: nombre = "" , edad = ...
 nombre = "camila"
 edad = 56
 
