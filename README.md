@@ -16,5 +16,6 @@ La temática a emplear para la creación de los ejercicios esta basada en los te
 6. Ejercicio 6: Control de acceso a usuario con operadores lógicos y datos de tipo booleano.
 7. Ejercicio 7: Verificador de Edad.
 8. Ejercicio 08: Verificador de números pares-impares.
-9. Ejercicio 09: Cálculo de promedio de una lista con "len ()"
+9. Ejercicio 09: Cálculo de promedio de una lista con "len ()".
+10. Ejercicio 10: Crear una lista con la función range().
 
